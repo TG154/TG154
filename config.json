@@ -1,0 +1,37 @@
+{
+  "readmeUrl": "https://raw.githubusercontent.com/TG154/resume/refs/heads/main/README.md",
+  "title": "Tg154's website",
+  "name": "TG_154",
+  "ascii": "TG_154",
+  "social": {
+    "github": "https://github.com/TG154",
+    "Instagram": "https://www.instagram.com/talha._.gohar/"
+  },
+  "email": "tg154isgreat@gmail.com",
+  "email_2": "talhaz.goharz@gmail.com",
+  "email_3": "tg154@proton.me",
+  "ps1_hostname": "ADMISNISTRATOR",
+  "ps1_username": "user",
+  "repo": "https://github.com/TG154/resume",
+  "resume_url": "https://github.com/TG154/resume/blob/main/Talha_Gohar_Resume.pdf",
+  "colors": {
+    "light": {
+      "background": "#FBF1C9",
+      "foreground": "#3C3836",
+      "yellow": "#D79921",
+      "green": "#98971A",
+      "gray": "#7C6F64",
+      "blue": "#458588",
+      "red": "#CA2124"
+    },
+    "dark": {
+      "background": "#1c1c1c",
+      "foreground": "#EBDBB2",
+      "yellow": "#D79921",
+      "green": "#98971A",
+      "gray": "#A89984",
+      "blue": "#458588",
+      "red": "#CA2124"
+    }
+  }
+}
