@@ -6,13 +6,15 @@
 
 ###
 
-<h4 align="left">+passionate high schooler who “does basically everything” (still figuring out if that’s a skill or a problem)<br>    
-  + I like breaking stuff to understand how it works, then fixing it like I meant to do that all along<br>    
-  +  random skills pretty fast, then forget why I started learning them in the first place<br>    
-  + big on creativity, discipline shows up sometimes but not consistently<br>    
-  + always switching between focusing on what I should do and starting something completely different<br>    
-  + tend to overcomplicate simple things for no reason other than curiosity<br>    
-  + somehow things still work out, so I’m just going with it</h4>
+<ul align="left">
+  <li>passionate high schooler who “does basically everything” (still figuring out if that’s a skill or a problem)</li>
+  <li>I like breaking stuff to understand how it works, then fixing it like I meant to do that all along</li>
+  <li>learn random skills pretty fast, then forget why I started learning them</li>
+  <li>big on creativity, discipline shows up sometimes but not consistently</li>
+  <li>constantly switching between focus and chaos</li>
+  <li>overcomplicate simple things out of curiosity</li>
+  <li>somehow things still work out, so I’m rolling with it</li>
+</ul>
 
 ###
 
