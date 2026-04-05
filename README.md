@@ -40,6 +40,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=TG154.TG154&"  />
+</div>
+
+###
+
 <br clear="both">
 
 <div align="center">
@@ -64,8 +70,11 @@
 
 ###
 
+###
+
+<!-- Snake Contribution Graph -->
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=TG154.TG154&"  />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </div>
 
 ###
