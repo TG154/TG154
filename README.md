@@ -57,8 +57,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/tg154">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=tg154&count=5&unique=false" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/31nu6bmjzy6udisjazecnn6kclvu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nu6bmjzy6udisjazecnn6kclvu&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
@@ -67,10 +67,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=TG154.TG154&"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/TG154/TG154/output/snake.svg" alt="Snake animation" />
 
 ###
 
