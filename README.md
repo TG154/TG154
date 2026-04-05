@@ -2,19 +2,11 @@
 
 ###
 
-<img align="left" height="200" src="https://i.pinimg.com/736x/1e/4a/dd/1e4adde35e9c3eb9741ffc1702bb6e3e.jpg"  />
+<img align="left" height="168" src="https://i.pinimg.com/736x/1e/4a/dd/1e4adde35e9c3eb9741ffc1702bb6e3e.jpg"  />
 
 ###
 
-<ul align="left">
-  <li>passionate high schooler who “does basically everything” (still figuring out if that’s a skill or a problem)</li>
-  <li>I like breaking stuff to understand how it works, then fixing it like I meant to do that all along</li>
-  <li>learn random skills pretty fast, then forget why I started learning them</li>
-  <li>big on creativity, discipline shows up sometimes but not consistently</li>
-  <li>constantly switching between focus and chaos</li>
-  <li>overcomplicate simple things out of curiosity</li>
-  <li>somehow things still work out, so I’m rolling with it</li>
-</ul>
+<h4 align="left">passionate high schooler who “does basically everything” (still figuring out if that’s a skill or a problem)<br>    I like breaking stuff to understand how it works, then fixing it like I meant to do that all along<br>    learn random skills pretty fast, then forget why I started learning them in the first place<br>    big on creativity, discipline shows up sometimes but not consistently<br>    always switching between focusing on what I should do and starting something completely different<br>    tend to overcomplicate simple things for no reason other than curiosity<br>    somehow things still work out, so I’m just going with it</h4>
 
 ###
 
@@ -73,14 +65,17 @@
 ###
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</div>
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=TG154.TG154&"  />
 </div>
 
 ###
 
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TG154/TG154/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TG154/TG154/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TG154/TG154/output/pacman-contribution-graph.svg">
+</picture>
+
+###
