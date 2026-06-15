@@ -1,4 +1,4 @@
-<h2 align="left">✨ It's yo boy Tg___154</h2>
+<h2 align="left">It's yo boy Tg___154</h2>
 
 ###
 
@@ -6,7 +6,13 @@
 
 ###
 
-<h4 align="left">passionate high schooler who “does basically everything” (still figuring out if that’s a skill or a problem)<br>    I like breaking stuff to understand how it works, then fixing it like I meant to do that all along<br>    learn random skills pretty fast, then forget why I started learning them in the first place<br>    big on creativity, discipline shows up sometimes but not consistently<br>    always switching between focusing on what I should do and starting something completely different<br>    tend to overcomplicate simple things for no reason other than curiosity<br>    somehow things still work out, so I’m just going with it</h4>
+<h4 align="left">
+Developer, maker, and lifelong learner.<br>
+Interested in software development, Linux, embedded systems, UI/UX design, and automation.<br>
+I enjoy building projects, exploring new technologies, and understanding how things work beneath the surface.<br>
+Always experimenting, learning, and turning ideas into practical solutions.<br>
+Focused on continuous improvement, problem-solving, and creating meaningful technology.
+</h4>
 
 ###
 
@@ -70,17 +76,16 @@
 
 ###
 
-###
-
-<!-- Snake Contribution Graph -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</div>
-
-###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
+
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TG154/TG154/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TG154/TG154/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TG154/TG154/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
 ###
