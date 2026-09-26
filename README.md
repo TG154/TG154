@@ -8,10 +8,12 @@
 
 <h4 align="left">
 Developer, maker, and lifelong learner.<br>
-Interested in software development, Linux, embedded systems, UI/UX design, and automation.<br>
-I enjoy building projects, exploring new technologies, and understanding how things work beneath the surface.<br>
-Always experimenting, learning, and turning ideas into practical solutions.<br>
-Focused on continuous improvement, problem-solving, and creating meaningful technology.
+Interested in software development, Linux, embedded systems, UI/UX design, automation, and generally figuring out how computers work beneath the surface.<br>
+I enjoy building projects, experimenting with hardware and software, and turning questionable ideas into things that actually work.<br>
+Comfortable breaking things, fixing them, and occasionally learning why they broke in the first place.<br>
+Currently exploring Linux customization, embedded systems, self-hosted projects, and different ways of making technology work the way I want it to.<br>
+I care about practical solutions, clean interfaces, open-source software, and understanding what I'm actually using rather than blindly following tutorials.<br>
+Always experimenting, learning, building, and improving.
 </h4>
 
 ###
@@ -46,6 +48,45 @@ Focused on continuous improvement, problem-solving, and creating meaningful tech
 
 ###
 
+<h3 align="left">What I'm Into</h3>
+
+<h4 align="left">
+<b>Linux</b> — customizing systems, experimenting with desktop environments, and making old hardware useful again.<br>
+<b>Development</b> — building tools, websites, experiments, and whatever seems interesting enough to spend several hours debugging.<br>
+<b>Embedded Systems</b> — microcontrollers, electronics, serial interfaces, and making tiny computers do surprisingly useful things.<br>
+<b>UI/UX</b> — interfaces should look good, make sense, and preferably not require a manual to operate.<br>
+<b>Automation</b> — if something can be automated, I will probably try to automate it.<br>
+<b>Open Source</b> — learning from existing projects, modifying things, and understanding how the software stack fits together.
+</h4>
+
+###
+
+<h3 align="left">Currently Exploring</h3>
+
+<h4 align="left">
+• Linux system customization and desktop environments<br>
+• Embedded development and microcontrollers<br>
+• Self-hosted services and lightweight servers<br>
+• Web development and modern UI design<br>
+• Hardware experimentation and repair<br>
+• Automation and scripting<br>
+• Building projects that are useful outside of a tutorial
+</h4>
+
+###
+
+<h3 align="left">A Few Things About Me</h3>
+
+<h4 align="left">
+I like old hardware, weird software, mechanical things, and projects that probably should have been easier than they were.<br>
+I'm interested in understanding how things work from the bottom up instead of treating technology like magic.<br>
+I enjoy comics, music, computers, and experimenting with whatever hardware happens to be lying around.<br>
+Most of my projects start with a simple thought: "Can I make this work?"<br>
+Sometimes the answer is yes. Sometimes the answer is several hours of debugging.
+</h4>
+
+###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=TG154.TG154&"  />
 </div>
@@ -76,11 +117,8 @@ Focused on continuous improvement, problem-solving, and creating meaningful tech
 
 ###
 
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
-
-
 
 ###
